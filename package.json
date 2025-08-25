@@ -1,0 +1,19 @@
+{
+  "name": "orders-service",
+  "version": "1.0.0",
+  "description": "Micro servicios de órdenes para demo de API Gateway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
